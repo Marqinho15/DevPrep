@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Loops\obj\Debug\net8.0\ref\Loops.dll

@@ -1,4 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
+/* Pede ao utilizador um número (Console.ReadLine())
+Converte de string para int
+Imprime o dobro do número */
+
 Console.Write("Insere um numero para duplicar: ");
 string numero = Console.ReadLine();
 int numero1 = int.Parse(numero);

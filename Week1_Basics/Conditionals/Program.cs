@@ -1,4 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+/*
+Pede idade ao utilizador
+Imprime: “Criança”, “Adolescente” ou “Adulto”
+Usa if/else
+*/
+
 Console.Write("Indique a idade: ");
 string idade = Console.ReadLine();
 int idade2 = int.Parse(idade);

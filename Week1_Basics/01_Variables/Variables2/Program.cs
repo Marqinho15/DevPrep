@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+/* Cria variáveis: int idade, string nome, double salario, bool ativo, char inicial
+Imprime todas no console usando Console.WriteLine*/
+
 int idade = 29;
 string nome = "Marco";
 double salario = 1234.56;

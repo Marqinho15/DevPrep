@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+/* Cria 2 variáveis inteiras (a e b)
+Imprime soma, subtração, multiplicação e divisão (decimal)
+*/
+
 int a = 10;
 int b = 20;
 int soma = a + b;
