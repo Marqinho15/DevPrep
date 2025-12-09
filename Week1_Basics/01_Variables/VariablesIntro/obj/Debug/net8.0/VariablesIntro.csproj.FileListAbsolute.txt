@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\bin\Debug\net8.0\VariablesIntro.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\bin\Debug\net8.0\VariablesIntro.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\bin\Debug\net8.0\VariablesIntro.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\bin\Debug\net8.0\VariablesIntro.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\bin\Debug\net8.0\VariablesIntro.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\refint\VariablesIntro.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\VariablesIntro.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\VariablesIntro\obj\Debug\net8.0\ref\VariablesIntro.dll

@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\bin\Debug\net8.0\Variables2.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\bin\Debug\net8.0\Variables2.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\bin\Debug\net8.0\Variables2.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\bin\Debug\net8.0\Variables2.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\bin\Debug\net8.0\Variables2.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\refint\Variables2.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\Variables2.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\01_Variables\Variables2\obj\Debug\net8.0\ref\Variables2.dll
