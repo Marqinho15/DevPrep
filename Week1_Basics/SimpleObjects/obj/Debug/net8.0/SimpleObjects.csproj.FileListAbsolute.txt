@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\bin\Debug\net8.0\SimpleObjects.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\bin\Debug\net8.0\SimpleObjects.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\bin\Debug\net8.0\SimpleObjects.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\bin\Debug\net8.0\SimpleObjects.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\bin\Debug\net8.0\SimpleObjects.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\refint\SimpleObjects.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\SimpleObjects.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\SimpleObjects\obj\Debug\net8.0\ref\SimpleObjects.dll
