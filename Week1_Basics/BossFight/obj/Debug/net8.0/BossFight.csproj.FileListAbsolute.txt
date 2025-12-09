@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\bin\Debug\net8.0\BossFight.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\bin\Debug\net8.0\BossFight.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\bin\Debug\net8.0\BossFight.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\bin\Debug\net8.0\BossFight.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\bin\Debug\net8.0\BossFight.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\refint\BossFight.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\BossFight.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\BossFight\obj\Debug\net8.0\ref\BossFight.dll
