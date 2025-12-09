@@ -1,0 +1,15 @@
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\bin\Debug\net8.0\Functions.exe
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.sourcelink.json
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\Users\emf\Desktop\DevPrep\Week1_Basics\Functions\obj\Debug\net8.0\ref\Functions.dll
